@@ -1,0 +1,7 @@
+{
+  "name": "cocktailGenerator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
